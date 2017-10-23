@@ -43,3 +43,29 @@ div
     display: inline-block;
     width: 33%;
 }
+span {
+    font-size: 60px;
+}
+body section:last-child {
+     
+       margin: 30px 50px 0 60px;
+}
+img[alt="logo laboratoria"] {
+    width: 120px;
+}
+button {
+    background-color: #f9a91a;
+    padding: 5px;
+    color: white;
+    border:0;
+    border-radius: 5px;
+    font-weight: 600px;
+
+}
+.box-header ul li {
+    margin: 0 15px;
+
+}
+span:hover {
+    color: #f9a91a;
+}
